@@ -12,7 +12,7 @@ The remaining directories—`yapp`, `router_module`, and `tb` (except `tb/clkgen
 
 ## Overall Environment
 
-![YAPP UVM Environment]("Environment Diagram.jpg")
+![YAPP UVM Environment]("Environment%Diagram.jpg")
 
 ## Contributions  
 
